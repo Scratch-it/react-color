@@ -40,7 +40,6 @@
     "lodash.throttle": "^4.0.0",
     "material-colors": "^1.0.0",
     "merge": "^1.2.0",
-<<<<<<< HEAD
     "react-addons-shallow-compare": "^15.1.0",
     "reactcss": "Scratch-it/reactcss#0.4.5-zmbl2",
     "tinycolor2": "^1.1.2"
@@ -48,15 +47,6 @@
   "peerDependencies": {
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
-=======
-    "react-addons-shallow-compare": "^15.0.0",
-    "reactcss": "^0.4.3",
-    "tinycolor2": "^1.1.2"
-  },
-  "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0"
->>>>>>> 1646b9d4b4c329b7e6989f489bca9c0200ac27a2
   },
   "devDependencies": {
     "babel-cli": "^6.8.0",
@@ -76,11 +66,7 @@
     "jsx-loader": "^0.13.2",
     "lodash": "^4.6.0",
     "normalize.css": "^4.1.1",
-<<<<<<< HEAD
     "react-addons-test-utils": "^15.1.0",
-=======
-    "react-addons-test-utils": "^15.0.0",
->>>>>>> 1646b9d4b4c329b7e6989f489bca9c0200ac27a2
     "react-context": "0.0.3",
     "react-hot-loader": "^1.2.8",
     "react-map-styles": "^0.3.0",

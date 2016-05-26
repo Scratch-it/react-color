@@ -1,6 +1,6 @@
 {
   "name": "react-color",
-  "version": "2.0.0-zmbl8",
+  "version": "2.1.0-zmbl1",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "repository": {
@@ -40,6 +40,7 @@
     "lodash.throttle": "^4.0.0",
     "material-colors": "^1.0.0",
     "merge": "^1.2.0",
+<<<<<<< HEAD
     "react-addons-shallow-compare": "^15.1.0",
     "reactcss": "Scratch-it/reactcss#0.4.5-zmbl2",
     "tinycolor2": "^1.1.2"
@@ -47,12 +48,21 @@
   "peerDependencies": {
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
+=======
+    "react-addons-shallow-compare": "^15.0.0",
+    "reactcss": "^0.4.3",
+    "tinycolor2": "^1.1.2"
+  },
+  "peerDependencies": {
+    "react": "^0.14.0 || ^15.0.0",
+    "react-dom": "^0.14.0 || ^15.0.0"
+>>>>>>> 1646b9d4b4c329b7e6989f489bca9c0200ac27a2
   },
   "devDependencies": {
-    "babel-cli": "^6.5.1",
+    "babel-cli": "^6.8.0",
     "babel-core": "^6.4.0",
     "babel-loader": "^6.2.1",
-    "babel-plugin-lodash": "^2.0.1",
+    "babel-plugin-lodash": "^3.1.0",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-0": "^6.3.13",
@@ -61,12 +71,16 @@
     "chai-spies": "^0.7.1",
     "css-loader": "^0.23.1",
     "event-stream": "^3.3.1",
-    "highlight.js": "^8.7.0",
+    "highlight.js": "^9.3.0",
     "html-loader": "^0.3.0",
     "jsx-loader": "^0.13.2",
     "lodash": "^4.6.0",
     "normalize.css": "^4.1.1",
+<<<<<<< HEAD
     "react-addons-test-utils": "^15.1.0",
+=======
+    "react-addons-test-utils": "^15.0.0",
+>>>>>>> 1646b9d4b4c329b7e6989f489bca9c0200ac27a2
     "react-context": "0.0.3",
     "react-hot-loader": "^1.2.8",
     "react-map-styles": "^0.3.0",

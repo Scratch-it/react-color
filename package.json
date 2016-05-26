@@ -1,6 +1,6 @@
 {
   "name": "react-color",
-  "version": "2.0.0-zmbl5",
+  "version": "2.0.0-zmbl6",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "lib/index.js",
   "repository": {
@@ -66,7 +66,7 @@
     "jsx-loader": "^0.13.2",
     "lodash": "^4.6.0",
     "normalize.css": "^4.1.1",
-    "react-addons-test-utils": "^0.14.0",
+    "react-addons-test-utils": "^15.1.0",
     "react-context": "0.0.3",
     "react-hot-loader": "^1.2.8",
     "react-map-styles": "^0.3.0",
